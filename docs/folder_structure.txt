@@ -1,0 +1,42 @@
+m:\dev_env\blk-pos
+├── README.md
+├── database
+├── docs
+│   └── folder_structure_descriptions.md
+├── requirements.txt
+└── src
+    ├── configs
+    │   ├── __init__.py
+    │   └── config.py
+    ├── controllers
+    │   ├── __init__.py
+    │   ├── customer_controller.py
+    │   ├── dashboard_controller.py
+    │   ├── home_controller.py
+    │   ├── inventory_controller.py
+    │   ├── reports_controller.py
+    │   ├── sales_controller.py
+    │   └── vendor_controller.py
+    ├── main.py
+    ├── models
+    │   ├── __init__.py
+    │   ├── customer.py
+    │   ├── database.py
+    │   ├── inventory.py
+    │   ├── reports.py
+    │   ├── sales.py
+    │   └── vendor.py
+    ├── utils
+    │   ├── __init__.py
+    │   └── helpers.py
+    └── views
+        ├── __init__.py
+        ├── customer_management.py
+        ├── dashboard_management.py
+        ├── home_page.py
+        ├── inventory_management.py
+        ├── reports_management.py
+        ├── sales_management.py
+        └── vendor_management.py
+
+Script last modified: 2024-04-30 16:56:56
