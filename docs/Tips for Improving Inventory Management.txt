@@ -1,0 +1,65 @@
+Effective inventory management starts with having best practices in place. 
+Making some slight changes to your inventory management process is easy and worth the investment of resources. 
+Here are just a few ways you can improve your practices:
+
+1. Use insights to inform decisions like reordering and pricing
+    Like ABC analysis, sales data reports are invaluable for decision-making. These insights can provide information regarding which of your products are popular, simply aren’t selling, or are moving slowly.
+
+    When you see the most sales based on customer demand and seasonality, you get in-depth inventory analysis. This data can then be used to base decisions on facts instead of assumptions and estimates.
+
+    Better inventory control can help you:
+        - Keep track of inventory counts across all sales channels
+        - Time reorders
+        - Optimize order quantity
+        - Reduce carrying costs
+        - Improve cash flow
+        - Increase profitability
+
+2. Automate as much as possible
+    Inventory management can be time-consuming, especially if you’re dealing with high sales volumes. One way to cut down the demand that inventory management places on your time and personnel is to automate as many aspects of the process as possible. This could include:
+
+    - Automating inventory level updates across platforms
+    - Uploading new products into the system
+    - Completing purchase orders
+    - Automating confirmation emails and invoices
+    
+    Having your team go through inventory with barcode scanners might be effective. However, automation will save you a lot of time and money, and it will improve accuracy.
+
+3. Use order tracking
+    However your inventory management system is set up—whether it’s a spreadsheet or software—careful order tracking is essential. By organizing all that data into easily accessible and useful lists, you can easily filter orders that:
+
+    - Have been paid
+    - Haven’t been paid
+    - Are overdue
+    - Haven’t been fulfilled yet
+    With a more organized system for order tracking, you’ll have a clear view of order statuses and a better handle of order fulfillment overall. And, with order tracking, you’ll be able to provide your customers with updates.
+
+4. Focus on consistency and process
+    One of the best things you can do to make inventory management run more smoothly is to follow consistent processes across the board. This is especially true if you have multiple team members involved in inventory control. Whether it’s how you go about managing physical inventory, updating inventory tracking, restocking, or adding new inventory to your sites, consistency is key. Otherwise, you may run into issues like inaccurate data, having too little or excess inventory, or displeased customers.
+
+    Establish an inventory management process that everyone can easily follow to keep everything running smoothly.
+
+5. Streamline internal communication
+    Oftentimes, mistakes are made due to poor communication. By implementing systems that can help streamline communication in your business, you can ensure everyone is on the same page. It will also help you significantly cut down on errors.
+
+    Keep your whole team in the loop with real-time status updates and periodic action emails. Depending on how your business operates, you may want to send these action emails weekly or daily. This ensures your team is receiving the information they need, when they expect it.
+
+6. Update your inventory management system
+    When it comes to inventory control, manual data entry and a disjointed process may be a downfall. However, with inventory management software that’s built for small businesses like yours, you can easily overcome these challenges.
+
+    - Automate virtually all aspects of inventory management
+    - Easily track inventory, manage orders, and improve fulfillment across all of your online stores
+    - Help you identify the right level of safety stock so you can account for lead time and avoid stockouts
+    - List and manage products across all of your e-commerce platforms like Amazon and Shopify
+    - Automatically update the amount of inventory available
+    - Keep inventory information organized and up to date for all your SKUs
+    - Add and manage more sales channels so you can expand your reach and sell more
+    - Generate powerful reports that provide key insights into sales
+    - Streamline bookkeeping with QuickBooks Online accounting integration
+
+When you use an effective inventory management software, you improve these processes and your efficiency.
+
+This opens up more time for you to focus on growing your business.
+
+Implement These Changes and Strengthen Your Business’s Inventory Management
+The best way to manage inventory varies from business to business, but these tips can only improve your current processes. Refining your inventory management strategies might seem like a large undertaking, but with the right tools, it can be fairly simple.

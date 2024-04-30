@@ -1,0 +1,12 @@
+# ./src/main.py
+
+import tkinter as tk
+from src.controllers.home_controller import HomeController
+
+def main():
+    root = tk.Tk()
+    home_controller = HomeController(root)
+    root.mainloop()
+
+if __name__ == "__main__":
+    main()

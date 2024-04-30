@@ -9,3 +9,7 @@ class AppConfig:
     TAB_SPACING = 5
     HEADER_BG_COLOR = "gray"
     FOOTER_BG_COLOR = "gray"
+
+class DatabaseConfig:
+    DATABASE_PATH = 'm:/dev_env/blk_pos/database'
+    DATABASE_FILE = 'blk_pos.db'
