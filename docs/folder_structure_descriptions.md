@@ -30,9 +30,9 @@ src/:
 
     src/views/: This folder contains GUI-related code.
         The home page GUI component.
-        home_page.py
+        gui_home_page.py
         GUI components for each feature section. 
-        dashboard.py, inventory_management.py, sales_management.py, vendor_management.py, customer_management.py, reports.py
+        gui_dashboard.py, gui_inventory.py, gui_sales.py, gui_vendor.py, gui_customer.py, gui_reports.py
 
     src/controllers/: This folder contains business logic and controller code.
         Controller for the home page.
